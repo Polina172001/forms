@@ -1,0 +1,28 @@
+.button {
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  border-radius: .3rem;
+  color: #fff;
+  background-color: #dc3545;
+}
+
+.btn {
+  position: absolute;
+  left: 500px;
+  top: 150px;
+}
+
+.tooltip {
+  position: absolute;
+  border: 2px solid black;
+}
+
+.tooltip-header {
+  background: #f7d2d2;
+  margin: 0px;
+  padding: 5px 0px;
+}
